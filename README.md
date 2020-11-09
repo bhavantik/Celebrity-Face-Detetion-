@@ -1,5 +1,8 @@
 # Celebrity-Face-Detetion
 ## Problem Description
+- In this Project, We classify an image of sports people. Here, we use OpenCV library for face & eye detection and feature engineering using wavelet transforms. Model building using SVM, Logistic regression, Neural Networks, etc. to classify new image and comparison of its result.
+- **Technology used:** OpenCV, Web-Scrapping, Wavelet transform, SVM, Logistics Regression, NNs
+  
 ## Steps
 1. Data Collection
 2. Data Cleaning 
@@ -26,6 +29,7 @@
   
 ## 4. Training & Prediction a Model Using SVM
 - **Training & Prediction using SVM.ipynb** file mentined above represent Training and prediction of new images using SVM classifier.
-
+  
 ## 5. Comaparison of Different Model 
 - **Training model & Prediction-Comparision.ipynb** file mentined above represent Comparision of various classification algorithams.
+  
